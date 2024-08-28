@@ -28,5 +28,5 @@ You can also run Kivy-GUI-Example in Gitpod, a free online dev environment for G
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Kivy-GUI-Example/blob/master/main.py).
 
 Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
-Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA) New Haven, USA.
+Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, USA.
 https://campuspress.yale.edu/shrikantpawar/
