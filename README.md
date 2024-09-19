@@ -30,3 +30,7 @@ You can also run Kivy-GUI-Example in Gitpod, a free online dev environment for G
 Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
 Yale University, School of Medicine, Department of Genetics, Yale Center for Genome Analysis (YCGA), Connecticut,  New Haven, USA.
 https://campuspress.yale.edu/shrikantpawar/
+
+main.py: Kivy User Interface.
+database.py: backend.
+user.py: credentials.
