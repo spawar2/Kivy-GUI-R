@@ -35,5 +35,5 @@ main.py: Kivy User Interface.
 database.py: backend.
 user.py: credentials.
 
-selected function(ObjectProperty, reset, login, loginBtn, createBtn, analysis, logOut, invalidLogin, invalidForm, cv2.VideoCapture, imwrite, imread, str, imshow, load, get_user, validate, add_user)
+selected function(ObjectProperty, reset, login, loginBtn, createBtn, analysis, logOut, invalidLogin, invalidForm, cv2.VideoCapture, imwrite, imread, str, imshow, load, get_user, validate, add_user).
 
