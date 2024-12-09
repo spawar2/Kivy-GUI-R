@@ -1,4 +1,4 @@
-# Kivy GUI Example. December, 9, 2024.
+# Kivy GUI Example. Date created/updated: December, 9, 2024.
 An example GUI created in python using the module kivy. This is a very basic login system where you can create accounts and login.
 [Python: kivy.app, kivy.lang, Builder, Screen, ObjectProperty, Popup, Label, DataBase].
 
